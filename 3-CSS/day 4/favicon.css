@@ -1,0 +1,16 @@
+i{
+    color: brown;
+}
+
+
+i:hover
+{
+    color: aqua;
+    background-color: blueviolet;
+}
+p{
+    font-family: "Jacquard 12", system-ui;
+}
+h1{
+    text-align: center;
+}

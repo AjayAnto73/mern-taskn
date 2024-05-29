@@ -1,0 +1,48 @@
+*{
+
+background-color: lime;
+text-align: center;
+}
+
+
+
+
+h1{
+    color: chartreuse;
+    
+}
+#kerala{
+    color: crimson;
+}
+.welcome
+{
+    color: rgb(20, 148, 246);
+}
+h3,p{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+h3:hover{
+    color: dimgrey;
+}
+p:hover
+{
+    color: mediumorchid;
+}
+button{
+    color: black;
+    background-color: antiquewhite;
+}
+button:hover{
+    color: antiquewhite;
+    background-color: black;
+}
+p::first-line{
+    color: goldenrod;
+}
+p::first-letter
+{
+    color: rgb(12, 12, 12);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

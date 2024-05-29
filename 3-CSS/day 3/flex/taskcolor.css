@@ -1,0 +1,151 @@
+body{
+    background-color: black;
+}
+h1{
+    color: antiquewhite;
+    background-color: black;
+}
+#row1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.col{
+    margin: 20px;
+    width: 150px;
+    height: 120px;
+    background-color: aqua;
+}
+.col1{
+
+    background-color: aquamarine;
+    width: 100px;
+}
+.col2{
+    background-color: rgb(90, 162, 249)85, 255;
+    width: 100px;
+}
+.col3{
+    background-color: rgb(239, 17, 5);
+    width: 100px;
+}
+.col4
+{
+    background-color: rgb(246, 93, 22);
+    width: 100px;
+}
+.col5
+{
+    background-color: rgb(251, 247, 35);
+    width: 100px;
+}
+#row2
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.col11
+{
+
+    background-color: rgb(232, 248, 10);
+    width: 100px;
+}
+.col22
+{
+    background-color: rgb(42, 253, 5)85, 255;
+    width: 100px;
+}
+.col33
+{
+    background-color: rgb(14, 152, 244);
+    width: 100px;
+}
+.col44
+{
+    background-color: rgb(16, 108, 78);
+    width: 100px;
+}
+.col55
+{
+    background-color: rgb(68, 92, 249);
+    width: 100px;
+}
+.col66
+{
+    background-color: rgb(214, 21, 160);
+    width: 100px;
+}
+.col77
+{
+    background-color: rgb(181, 25, 220);
+    width: 100px;
+}
+#row3
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+
+}
+
+.col111
+{
+
+    background-color: rgb(236, 23, 23);
+    width: 100px;
+    
+}
+.col222
+{
+    background-color: rgb(234, 77, 184)85, 255;
+    width: 100px;
+}
+.col333
+{
+    background-color: rgb(209, 220, 216);
+    width: 100px;
+}
+.col444
+{
+    background-color: rgb(33, 221, 158);
+    width: 100px;
+}
+.col555
+{
+    background-color: rgb(234, 234, 235);
+    width: 100px;
+}
+.col666
+{
+    background-color: rgb(206, 224, 157);
+    width: 100px;
+}
+.col777
+{
+    background-color: rgb(197, 226, 32);
+    width: 100px;
+}
+.col888
+{
+    background-color: rgb(187, 224, 127);
+    width: 100px;
+}
+.col999
+{
+    background-color: rgb(99, 228, 155);
+    width: 100px;
+}
+.col1010
+{
+    background-color: rgb(221, 142, 171);
+    width: 100px;
+}
